@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Attorney & Ph.D. Candidate at Northwestern University"
   location         : "Evanston, IL"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "https://www.polisci.northwestern.edu/people/graduate-students/christopher-dinkel.html"
+  googlescholar    : "https://scholar.google.com/citations?user=TzoedpcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,8 +100,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "/in/christopherdinkel"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "christopherdinkel"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
