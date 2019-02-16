@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome
 ======
-Hello!  I am a Ph.D. candidate in the Department of Political Science at Northwestern University, where I am also a Graduate Fellow at the Center for Legal Studies and a Graduate Affiliate at the Buffett Institute for Global Studies.  My research focuses on combining machine learning and quantitative causal inferences methods to conduct empirical legal studies in the areas of immigration, intellectual property, and human rights.  
+Hello!  I am a Ph.D. candidate in the Department of Political Science at Northwestern University, where I am also a Graduate Fellow at the Center for Legal Studies and a Graduate Affiliate at the Buffett Institute for Global Studies.  My research focuses on combining machine learning and quantitative causal inference methods to conduct empirical legal studies in the areas of immigration, intellectual property, and human rights.  
 
 Contact
 ======
