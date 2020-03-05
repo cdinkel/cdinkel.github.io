@@ -10,9 +10,7 @@ redirect_from:
 
 Welcome
 ======
-Hello!  I am a Ph.D. Candidate in the Department of Political Science at Northwestern University, where I am also a Graduate Fellow at the Center for Legal Studies.  I previously earned a B.A. from Pomona College, a J.D. from Cornell Law School, and an M.A. from Northwestern University.  
-
-My dissertation research focuses on the law and politics surrounding the protection of confidential business information.  I am also working on a separate research project that examines the relationship between governments' participation in International Monetary Fund lending programs and their levels of respect for human rights.
+Hello!  I am a Ph.D. Candidate in the Department of Political Science at Northwestern University, where I am also a Graduate Fellow at the Center for Legal Studies.  I previously earned a B.A. from Pomona College, a J.D. from Cornell Law School, and an M.A. from Northwestern University.  My dissertation research focuses on the law and politics surrounding the protection of confidential business information.
 
 Contact
 ======
