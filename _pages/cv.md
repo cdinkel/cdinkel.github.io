@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my most recent CV [here](http://cdinkel.github.io/files/Christopher_Dinkel_CV_2_25_2020.pdf).
+You can find a copy of my most recent CV [here](http://cdinkel.github.io/files/Christopher_Dinkel_CV_3_28_2020.pdf).
