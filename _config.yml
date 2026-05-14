@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christopher Dinkel"
 title_separator          : "-"
 name                     : &name "Christopher Dinkel"
-description              : &description "Ph.D. Candidate at Northwestern University"
+description              : &description "Assistant Professor, Department of Management, Spears School of Business, Oklahoma State University"
 url                      : https://cdinkel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cdinkel/cdinkel.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Christopher Dinkel"
   avatar           : "photo.jpg"
-  bio              : "Ph.D. Candidate at Northwestern University"
-  location         : "Evanston, IL"
+  bio              : "Assistant Professor, Department of Management, Spears School of Business"
+  location         : "Stillwater, OK"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=TzoedpcAAAAJ&hl=en"
   email            :
@@ -100,11 +100,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "christopherdinkel/"
+  linkedin         : "linkedin.com/in/christopherdinkel"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
